@@ -1,7 +1,5 @@
 package repo
 
-import "fmt"
-
-func main(){
-    fmt.Println("Hello Go Introduction .......")
+func SayHi() string{
+    return string("Hello from Github .......")
 }
