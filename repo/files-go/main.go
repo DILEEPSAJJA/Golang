@@ -8,7 +8,7 @@ import (
 
 func main() {
 	fmt.Println("Learning About Files.")
-	content := "I am Currently working on files topic in golang."
+	content := "I am Currently working on files topic in golang. "
 
 	file , err := os.Create("./example.txt")
 
