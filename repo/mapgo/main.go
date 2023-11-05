@@ -5,7 +5,7 @@ import (
 )
 
 func main(){
-	fmt.Println("map -  Introduction.")
+	fmt.Println("map - Introduction.")
 
 	lang := make(map[string]string)
 
