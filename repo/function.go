@@ -8,7 +8,7 @@ type Employee struct{
 }
 
 func (emp Employee) fullname(){
-	fmt.Println(emp.fname + " " + emp.lname)
+	fmt.Println(emp.fname + " " + emp.lname )
 }
 func main(){
 	e1 := Employee {"Dileep","Sajja"}
