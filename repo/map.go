@@ -15,6 +15,6 @@ func main(){
   
   m["key2"] = 555
   
-  fmt.Println(m)
+  fmt.Println( m )
   
 }
