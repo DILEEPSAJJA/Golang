@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Requesting get in golang")
+	fmt.Println("Requesting get in golang ")
 	performGetRequest()
 	performPostRequest()
 	performPostFormRequest()
