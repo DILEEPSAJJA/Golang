@@ -1,7 +1,5 @@
 package repo
-
 import "fmt"
-
 func main() {
 	var i int;
 	var f float64;
