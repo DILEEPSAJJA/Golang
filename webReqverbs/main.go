@@ -1,4 +1,5 @@
-package mai
+package main
+
 import (
 	"fmt"
 	"io/ioutil"
